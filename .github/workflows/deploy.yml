@@ -1,5 +1,5 @@
 
-name: Deploy Quorza Website
+name: Deploy Quorza Next.js Website
 
 on:
   push:
@@ -11,34 +11,50 @@ permissions:
   contents: read
 
 concurrency:
-  group: pages
+  group: github-pages
   cancel-in-progress: true
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
 
     permissions:
       contents: read
-      pages: write
-      id-token: write
-
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-
+ 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v6
 
-      - name: Configure GitHub Pages
-        uses: actions/configure-pages@v5
+      - name: Set up Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 22
+          cache: npm
 
-      - name: Upload website files
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build Next.js static site
+        run: npm run build
+
+      - name: Upload static site artifact
         uses: actions/upload-pages-artifact@v4
         with:
-          path: ./site
+          path: ./out
 
-      - name: Deploy website
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    runs-on: ubuntu-latest
+    needs: build
+
+    permissions:
+      pages: write
+      id-token: write
+
+    steps:
+      - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4

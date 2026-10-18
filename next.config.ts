@@ -6,8 +6,7 @@ const nextConfig: NextConfig = {
     unoptimized: true,
   },
   /* config options here */
-  cacheComponents: true,
-  partialPrefetching: true,
+
   turbopack: {
     rules: {
       "*.css": {
@@ -15,6 +14,12 @@ const nextConfig: NextConfig = {
         as: "*.css",
       },
     },
+  },
+  // Static export cannot use Partial Prerendering.
+  cacheComponents: false,
+
+  experimental: {
+    ppr: false,
   },
 };
 

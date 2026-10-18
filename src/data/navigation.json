@@ -1,0 +1,46 @@
+[
+    {
+      "label": "NISM Exam",
+      "url": "/exams-list/nism–exams-2.aspx"
+    },
+    {
+      "label": "My Purchased Exams",
+      "url": "myexams.aspx"
+    },
+    {
+      "label": "Testimonials",
+      "url": "testimonial.aspx"
+    },
+    {
+      "label": "NISM Books",
+      "url": "/workbook/"
+    },
+    {
+      "label": "Free Demo",
+      "url": "free-demo.aspx"
+    },
+    {
+      "label": "Contact Us",
+      "url": "contact.aspx"
+    },
+    {
+      "label": "My Profile",
+      "url": "myprofile.aspx"
+    },
+    {
+      "label": "My Purchased Exam",
+      "url": "myexams.aspx"
+    },
+    {
+      "label": "My Invoices",
+      "url": "my_invoices.aspx"
+    },
+    {
+      "label": "Change Password",
+      "url": "change_password.aspx"
+    },
+    {
+      "label": "Logout",
+      "url": "logout.aspx"
+    }
+  ]

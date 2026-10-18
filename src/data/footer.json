@@ -1,0 +1,299 @@
+{
+  "companyName": "Edusure Knowledge Solution",
+  "address": "A2/7, Vandana Society, Naupada, Thane - 400602 (Maharashtra)",
+  "contacts": [
+    {
+      "label": "info@quorza.in",
+      "url": "mailto:info@quorza.in"
+    },
+    {
+      "label": "Logout",
+      "url": "logout.aspx"
+    },
+    {
+      "label": "About Us",
+      "url": "about_us.aspx"
+    },
+    {
+      "label": "WorkBooks",
+      "url": "/workbook/"
+    },
+    {
+      "label": "How to Enroll at NISM",
+      "url": "assets/pdf/how_to_enroll_at_nism.pdf"
+    },
+    {
+      "label": "FAQ",
+      "url": "faq.aspx"
+    },
+    {
+      "label": "Sitemap",
+      "url": "sitemap.xml"
+    },
+    {
+      "label": "Contact Us",
+      "url": "contact.aspx"
+    },
+    {
+      "label": "Terms & Conditions / Privacy Policy",
+      "url": "terms.aspx"
+    },
+    {
+      "label": "Refund Policy",
+      "url": "refund_policy.aspx"
+    },
+    {
+      "label": "NISM Mock Test",
+      "url": "/nism-mock-test/"
+    },
+    {
+      "label": "NISM Registration",
+      "url": "nism-registration.aspx"
+    },
+    {
+      "label": "Insurance Mock Test",
+      "url": "/insurance-mock-test/"
+    },
+    {
+      "label": "Blog",
+      "url": "/blog/"
+    },
+    {
+      "label": "NISM Series I : Currency Derivatives Mock Test",
+      "url": "/exam/nism-series-1-currency-derivatives-certification-exam-9.aspx"
+    },
+    {
+      "label": "NISM Series II A : Registrars to an Issue and Share Transfer Agents",
+      "url": "/exam/nism-series-ii-a-registrars-to-an-issue-share-transfer-agents-35.aspx"
+    },
+    {
+      "label": "NISM Series II B : Registrar and Transfer Agents (MF)",
+      "url": "/exam/nism-series-ii-b-registrar-and-transfer-agents-mf-certification-exam-47.aspx"
+    },
+    {
+      "label": "NISM Series III A : Securities Intermediaries Compliance (Non Fund)",
+      "url": "/exam/nism-series-iii-a-securities-intermediaries-compliance-certification-examination-13.aspx"
+    },
+    {
+      "label": "NISM Series III C : Securities Intermediaries Compliance (Fund)",
+      "url": "/exam/nism-series-iii-c-securities-intermediaries-compliance-fundcertification-examination-85.aspx"
+    },
+    {
+      "label": "NISM Series IV : Interest Rate Derivatives Certification Mock Test",
+      "url": "/exam/nism-series-iv-interest-rate-derivatives-certification-exam-36.aspx"
+    },
+    {
+      "label": "NISM Series VA : Mutual Fund Distributors Mock Test",
+      "url": "/exam/nism-series-v-mutual-fund-distributors-certification-exam-10.aspx"
+    },
+    {
+      "label": "NISM Series VB : Mutual Fund Foundation Certification Mock Test",
+      "url": "/exam/nism-series-v-b-mutual-fund-foundation-certification-examination-37.aspx"
+    },
+    {
+      "label": "NISM Series VD : Mutual Fund Specialized Investment Fund (SIF) Test",
+      "url": "/exam/nism-series-vd-mutualfund-sif-certification-exam-86.aspx"
+    },
+    {
+      "label": "NISM Series VC : Mutual Fund Distributors (Level 2) Mock Test",
+      "url": "/exam/nism-v-c-mutual-fund-distributors-level-2-exam-40.aspx"
+    },
+    {
+      "label": "NISM Series VA (Hindi) : Mutual Fund Exam in Hindi",
+      "url": "/exam/nism-series-v-mutual-fund-distributors-hindi-certification-exam-49.aspx"
+    },
+    {
+      "label": "NISM Series VI : Depository Operations Certification Mock Test",
+      "url": "/exam/nism-series-depository-operations-certification-exam-8.aspx"
+    },
+    {
+      "label": "NISM Series VII : Securities Operations and Risk Management Mock Test",
+      "url": "/exam/nism-series-vii-securities-operations-and-risk-management-5.aspx"
+    },
+    {
+      "label": "NISM Series VIII : Equity Derivatives Mock Test",
+      "url": "/exam/nism-series-viii-equity-derivatives-certification-exam-2.aspx"
+    },
+    {
+      "label": "NISM-Series IX : Merchant Banking Certification Mock Test",
+      "url": "/exam/nism-series-ix-merchant-banking-certification-exam-38.aspx"
+    },
+    {
+      "label": "NISM Series XA : Investment Adviser (Level 1) Mock Test",
+      "url": "/exam/nism-series-x-a-investment-adviser-level-1-certification-examination-12.aspx"
+    },
+    {
+      "label": "NISM Series XB : Investment Adviser (Level 2) Mock Test",
+      "url": "/exam/nism-series-x-b-investment-adviser-level-2-certification-examination-14.aspx"
+    },
+    {
+      "label": "NISM Series XII : Securities Market Foundation Mock Test",
+      "url": "/exam/nism-series-xii-securities-market-foundation-certification-exam-55.aspx"
+    },
+    {
+      "label": "NISM Series XIII : Common Derivative Certification",
+      "url": "/exam/nism-xiii-common-derivative-certification-exam-39.aspx"
+    },
+    {
+      "label": "NISM Series XV : Research Analyst Certification Mock Test",
+      "url": "/exam/nism-series-xv-research-analyst-certification-exam-33.aspx"
+    },
+    {
+      "label": "NISM Series XVI : Commodity Derivatives Certification Mock Test",
+      "url": "/exam/nism-series-xvi-commodity-derivatives-certification-examination-62.aspx"
+    },
+    {
+      "label": "NISM Series XVII : Retirement Adviser Mock Test",
+      "url": "/exam/nism-series-xvii-retirement-adviser-certification-exam-46.aspx"
+    },
+    {
+      "label": "NISM Series XIX A : Alternative Investments Funds (AIF) Distributors Mock Test",
+      "url": "/exam/nism-series-xix-a-alternative-investment-aif-certification-examination-80.aspx"
+    },
+    {
+      "label": "NISM-Series XIX C : Alternative Investments (AIF) Managers Mock Test",
+      "url": "/exam/nism-series-xix-c-alternative-investment-managers-aif-certification-examination-81.aspx"
+    },
+    {
+      "label": "NISM Series XXI A : Portfolio Management (PMS) Mock Test",
+      "url": "/exam/nism-series-xxi-a-portfolio-management-pms-certification-examination-68.aspx"
+    },
+    {
+      "label": "NISM Series XXI B : Portfolio Managers Cert. Mock Test",
+      "url": "/exam/nism-series-xxi-b-portfolio-managers-pms-certification-examination-69.aspx"
+    },
+    {
+      "label": "NISM Series XXII : Fixed Income Securities Mock Test",
+      "url": "/exam/nism-series-xxii-fixed-income-securities-certification-examination-78.aspx"
+    },
+    {
+      "label": "BUY PACK OF 2 NISM EXAMS AND GET THIRD FREE !!",
+      "url": "/exam/nism-exams-67.aspx"
+    },
+    {
+      "label": "NCFM Capital Market (Dealers) Module",
+      "url": "/exam/nse-ncfm-capital-market-dealers-module-1.aspx"
+    },
+    {
+      "label": "NCFM - Financial Markets : A Beginners Module",
+      "url": "/exam/ncfm-financial-markets-beginners-module-7.aspx"
+    },
+    {
+      "label": "NCFM Technical Analysis Module",
+      "url": "/exam/nse-ncfm-technical-analysis-module-54.aspx"
+    },
+    {
+      "label": "FIMMDA - NSE Debt Market (Basic) Module",
+      "url": "/exam/fimmda-nse-debt-market-basic-module-27.aspx"
+    },
+    {
+      "label": "NCFM Derivatives Market (Dealers) Module",
+      "url": "/exam/nse-ncfm-derivatives-market-dealers-module-4.aspx"
+    },
+    {
+      "label": "BSE's Certification on Securities Market (BCSM)",
+      "url": "/exam/bse-certification-on-securities-market-3.aspx"
+    },
+    {
+      "label": "MCX Certified Commodity Professional (MCCP) Exam",
+      "url": "/exam/mcx-mccp-commodity-derivatives-certification-exam-57.aspx"
+    },
+    {
+      "label": "Principles of Insurance - IC 01 Licentiate Exam",
+      "url": "/exam/principles-of-insurance-ic-01-exams-41.aspx"
+    },
+    {
+      "label": "Practice of Life Insurance - IC 02 Licentiate Exam",
+      "url": "/exam/practice-of-life-insurance-ic-02-exams-42.aspx"
+    },
+    {
+      "label": "Practice of General Insurance - IC 11 Exam",
+      "url": "/exam/practice-of-general-insurance-ic-11-43.aspx"
+    },
+    {
+      "label": "Regulation of Insurance Business - IC 14 Exam",
+      "url": "/exam/regulation-of-insurance-business-ic-14-44.aspx"
+    },
+    {
+      "label": "Life Insurance Underwriting - IC 22 Exam",
+      "url": "/exam/life-insurance-underwriting-ic-22-insurance-exam-70.aspx"
+    },
+    {
+      "label": "Application of Life Insurance - IC 23 Exam",
+      "url": "/exam/applocation-of-life-insurance-ic-23-insurance-exam-71.aspx"
+    },
+    {
+      "label": "Life Insurance Finance - IC 26 Associateship Exam",
+      "url": "/exam/life-insurance-finance-ic-26-associateship-exam-48.aspx"
+    },
+    {
+      "label": "Legal Aspects of Life Assurance - IC 24 Exam",
+      "url": "/exam/legal-aspects-of-life-assurance-ic-24-exams-84.aspx"
+    },
+    {
+      "label": "Health Insurance - IC 27 Associateship Exam",
+      "url": "/exam/health-insurance-ic-27-associateship-exam-52.aspx"
+    },
+    {
+      "label": "General Insurance Underwriting - IC 45 Associateship Exam",
+      "url": "/exam/general-insurance-underwriting-prep-ic-45-associateship-exam-51.aspx"
+    },
+    {
+      "label": "General Insurance Accounts Prep - IC 46 Associateship Exam",
+      "url": "/exam/general-insurance-accounts-prep-ic-46-associateship-exam-50.aspx"
+    },
+    {
+      "label": "Fire and Consequential Loss Insurance - IC 57 Exam",
+      "url": "/exam/fire-insurance-ic-57-insurance-exam-63.aspx"
+    },
+    {
+      "label": "Marine Insurance - IC 67 Exam",
+      "url": "/exam/marine-insurance-ic-67-associateship-exam-59.aspx"
+    },
+    {
+      "label": "Engineering Insurance - IC 77 Exam",
+      "url": "/exam/engineering-insurance-ic-77-insurance-exam-72.aspx"
+    },
+    {
+      "label": "Motor Insurance - IC 72 Exam",
+      "url": "/exam/motor-insurance-ic-72-exam-58.aspx"
+    },
+    {
+      "label": "Group Insurance - IC 83 Exam",
+      "url": "/exam/group-insurance-ic-83-exam-79.aspx"
+    },
+    {
+      "label": "Miscellaneous Insurance - IC 78 Exam",
+      "url": "/exam/miscellaneous-insurance-ic-78-associateship-exam-61.aspx"
+    },
+    {
+      "label": "Reinsurance - IC 85 Exam",
+      "url": "/exam/reinsurance-management-ic-85-insurance-exam-65.aspx"
+    },
+    {
+      "label": "Risk Management - IC 86 Exam",
+      "url": "/exam/risk-management-ic-86-associateship-exam-60.aspx"
+    },
+    {
+      "label": "Marketing and Public Relations - IC 88 Exam",
+      "url": "/exam/marketing-and-public-relations-ic-88-insurance-exam-73.aspx"
+    },
+    {
+      "label": "Human Resource Management - IC 90 Exam",
+      "url": "/exam/human-resource-management-ic-90-insurance-exam-74.aspx"
+    },
+    {
+      "label": "Insurance Agents Exam - IC 38",
+      "url": "/exam/insurance-agents-exam-ic-38-53.aspx"
+    },
+    {
+      "label": "Management Accounting - IC 89 Exam",
+      "url": "/exam/management-accounting-ic-89-exams-83.aspx"
+    },
+    {
+      "label": "Actuarial Aspects of Product Development - IC 92 Fellowship Exam",
+      "url": "/exam/actuarial-aspects-of-product-development-ic-92-exams-82.aspx"
+    }
+  ],
+  "ratingText": "rated 4.7/5"
+}

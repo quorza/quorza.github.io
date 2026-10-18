@@ -1,0 +1,212 @@
+{
+  "NISM Exams": [
+    {
+      "title": "NISM I - Currency Derivatives",
+      "description": "The NISM Series 1 - Currency Derivatives Certification Exam is one of the important NISM certifications. Its a prerequis...",
+      "icon": "banknote",
+      "startsFrom": 499
+    },
+    {
+      "title": "NISM II A - Registrars to an Issue-Corporate",
+      "description": "The NISM Series II A - Registrars to an Issue & Share Transfer Agents (Corporate) exam seeks to create a common knowledg...",
+      "icon": "users",
+      "startsFrom": 499
+    },
+    {
+      "title": "NISM II B - Registrar and Transfer Agent (MF)",
+      "description": "NISM Series II B - Registrar and Transfer Agents (MF) Certification Exam is an important exam for persons working in Re...",
+      "icon": "users",
+      "startsFrom": 499
+    },
+    {
+      "title": "NISM III A - Securities Intermediaries Compliance (Non Fund)",
+      "description": "The NISM Series-III-A : Securities Intermediaries Compliance (Non Fund) Certification Examination is an essential requir...",
+      "icon": "shield-check",
+      "startsFrom": 499
+    },
+    {
+      "title": "NISM III C - Securities Intermediaries Compliance (Fund)",
+      "description": "The NISM Series III-C: Securities Intermediaries Compliance (Fund) Certification Exam is designed to enhance the quality...",
+      "icon": "shield-check",
+      "startsFrom": 499
+    },
+    {
+      "title": "NISM IV - Interest Rate Derivatives",
+      "description": "The NISM Series IV - Interest Rate Derivatives Certification Exam is one of the important NISM certifications. It gives ...",
+      "icon": "percent",
+      "startsFrom": 499
+    },
+    {
+      "title": "NISM VA - Mutual Fund",
+      "description": "The NISM Series V A: Mutual Fund Distributors Certification Exam is a mandatory NISM certification exam for those person...",
+      "icon": "wallet",
+      "startsFrom": 499
+    },
+    {
+      "title": "NISM VB - Mutual Fund Foundation",
+      "description": "NISM-Series-V-B: Mutual Fund Foundation Certification Examination is mandatory examination for the new cadre of distribu...",
+      "icon": "wallet",
+      "startsFrom": 499
+    },
+    {
+      "title": "NISM VD - Mutual Fund – SIF",
+      "description": "NISM Series VD - Mutual Fund – Specialized Investment Fund (SIF) Exam is an important NISM certification for people who ...",
+      "icon": "wallet",
+      "startsFrom": 499
+    },
+    {
+      "title": "NISM VC - Mutual Fund Distributors (Level 2)",
+      "description": "The NISM V C Mutual Fund Distributors (Level 2) Exam is for those individuals who wish to assess themselves against hig...",
+      "icon": "wallet",
+      "startsFrom": 499
+    },
+    {
+      "title": "NISM VA - Hindi Mutual Fund Exam",
+      "description": "The NISM Series V A: Mutual Fund Distributors Certification Exam is a mandatory NISM certification exam (which can also ...",
+      "icon": "wallet",
+      "startsFrom": 499
+    },
+    {
+      "title": "NISM VI - Depository Operations",
+      "description": "The NISM Series VI - Depository Operations Certification Exam is an important NISM exam for those persons who are engage...",
+      "icon": "landmark",
+      "startsFrom": 499
+    },
+    {
+      "title": "NISM VII - SORM",
+      "description": "The NISM Series VII - Securities Operations and Risk Management Exam is technically a very important NISM certification ...",
+      "icon": "clipboard-check",
+      "startsFrom": 499
+    },
+    {
+      "title": "NISM VIII - Equity Derivatives",
+      "description": "NISM Series VIII - Equity Derivatives Certification Exam is one of the very important NISM certifications exams conducte...",
+      "icon": "chart-no-axes-combined",
+      "startsFrom": 499
+    },
+    {
+      "title": "NISM IX - Merchant Banking",
+      "description": "The NISM Series IX - Merchant Banking Certification Exam is a very important NISM certification for employees of SEBI re...",
+      "icon": "building-2",
+      "startsFrom": 499
+    },
+    {
+      "title": "NISM XA - Investment Adviser - I",
+      "description": "The NISM-Series-X-A: Investment Adviser (Level 1) Examination is an important NISM exam for all associated persons regis...",
+      "icon": "hand-coins",
+      "startsFrom": 499
+    },
+    {
+      "title": "NISM XB - Investment Adviser - II",
+      "description": "The NISM-Series-X-B: Investment Adviser (Level 2) Examination is a very important NISM exam for all associated persons r...",
+      "icon": "hand-coins",
+      "startsFrom": 499
+    },
+    {
+      "title": "NISM XII - Securities Market Foundation",
+      "description": "The NISM-Series-XII: Securities Markets Foundation Certification Examination is for entry level professionals, who wish ...",
+      "icon": "book-open",
+      "startsFrom": 499
+    },
+    {
+      "title": "NISM Series XIII - Common Derivatives (For SIFs)",
+      "description": "Please note that the NISM Series XIII examination is no longer valid for Specialized Investment Fund (SIF) distributors ...",
+      "icon": "chart-no-axes-combined",
+      "startsFrom": 499
+    },
+    {
+      "title": "NISM XV - Research Analyst",
+      "description": "NISM-Series-XV : Research Analyst Certification Exam is a very important exam conducted by NISM. As per a SEBI notificat...",
+      "icon": "chart-line",
+      "startsFrom": 499
+    },
+    {
+      "title": "NISM XVI - Commodity Derivatives",
+      "description": "The NISM Series XVI - Commodity Derivatives Certification examination aims to give a better understanding of various der...",
+      "icon": "chart-no-axes-combined",
+      "startsFrom": 499
+    },
+    {
+      "title": "NISM XVII - Retirement Adviser",
+      "description": "NISM Series XVII - Retirement Adviser Certification Exam is one of the very important NISM certifications exams. This ex...",
+      "icon": "piggy-bank",
+      "startsFrom": 499
+    },
+    {
+      "title": "NISM XIX A -Alternative Investments (AIF)",
+      "description": "NISM-Series-XIX-A: Alternative Investment Funds (Category I and II) Distributors Certification Examination is a voluntar...",
+      "icon": "layers",
+      "startsFrom": 499
+    },
+    {
+      "title": "NISM XIX C - Alternative Investments (AIF) Managers",
+      "description": "NISM-Series-XIX-C: Alternative Investment Fund Managers Certification Examination is an important exam for AIF Managers ...",
+      "icon": "layers",
+      "startsFrom": 499
+    },
+    {
+      "title": "NISM XXI A - Portfolio Management (PMS)",
+      "description": "NISM-Series-XXI-A: Portfolio Management Services (PMS) Distributors Certification Examination is a mandatory examination...",
+      "icon": "briefcase-business",
+      "startsFrom": 499
+    },
+    {
+      "title": "NISM XXI B - Portfolio Managers",
+      "description": "The NISM-Series-XXI-B: Portfolio Managers Certification Examination is for creating a common minimum knowledge benchmar...",
+      "icon": "briefcase-business",
+      "startsFrom": 499
+    },
+    {
+      "title": "NISM XXII - Fixed Income Securities",
+      "description": "NISM-Series-XXII : Fixed Income Securities Certification Examination is a voluntary exam and it seeks to enhance the kno...",
+      "icon": "landmark",
+      "startsFrom": 499
+    }
+  ],
+  "NCFM Exams": [
+    {
+      "title": "NCFM Capital Market",
+      "description": "The NCFM Capital Market (Dealers) Module exam is one of the very important exams conducted by NSE. Its useful for getti...",
+      "icon": "chart-no-axes-combined",
+      "startsFrom": 499
+    },
+    {
+      "title": "NCFM - Financial Markets : A Beginners Module",
+      "description": "The NCFM Financial Markets - A Beginner's Module exam is the basic and important exams conducted by the National Stock E...",
+      "icon": "graduation-cap",
+      "startsFrom": 499
+    },
+    {
+      "title": "NCFM Technical Analysis",
+      "description": "The NCFM Technical Analysis Module exam is one of the very important exams conducted by NSE. Its useful for getting job...",
+      "icon": "chart-candlestick",
+      "startsFrom": 499
+    },
+    {
+      "title": "NCFM Derivatives Market",
+      "description": "( The NISM Series VIII - Equity Derivatives Module has replaced this module. Kindly subscribe for the NISM module ) T...",
+      "icon": "chart-no-axes-combined",
+      "startsFrom": 499
+    }
+  ],
+  "Other Exams": [
+    {
+      "title": "FIMMDA - NSE Debt Market (Basic) Module",
+      "description": "The FIMMDA - NSE Debt Market (Basic) Module is an essential study for students associated with the Debt Markets in India...",
+      "icon": "landmark",
+      "startsFrom": 499
+    },
+    {
+      "title": "BSE's Securities Market",
+      "description": "The BSE's Certification on Securities Market (BCSM) Module exam is one of the very important exams conducted by the Bomb...",
+      "icon": "book-open",
+      "startsFrom": 499
+    },
+    {
+      "title": "MCX - MCCP Exam",
+      "description": "The MCX Certified Commodity Professional (MCCP) programme offered by Multi Commodity Exchange is a very important exam f...",
+      "icon": "gem",
+      "startsFrom": 499
+    }
+  ]
+}

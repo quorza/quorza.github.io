@@ -1,0 +1,227 @@
+[
+  {
+    "date": "05 Sep 2026",
+    "name": "Aarav Sharma",
+    "shortText": "Helpful practice tests",
+    "longText": "The practice tests gave me a useful way to check my understanding before the exam. The question format helped me get more comfortable with timed practice.",
+    "stars": 4.5,
+    "place": "Mumbai, Maharashtra",
+    "userImageURL": "m.webp"
+  },
+  {
+    "date": "11 Oct 2026",
+    "name": "Priya Nair",
+    "shortText": "Good exam preparation",
+    "longText": "I used the mock tests to revise important topics and identify areas that needed more attention. It made my preparation feel more structured.",
+    "stars": 4.5,
+    "place": "Pune, Maharashtra",
+    "userImageURL": "f.webp"
+  },
+  {
+    "date": "11 Oct 2026",
+    "name": "Rohan Mehta",
+    "shortText": "Useful explanations",
+    "longText": "The questions and explanations helped me revisit concepts I had missed while studying. I found the practice sessions helpful for revision.",
+    "stars": 4.5,
+    "place": "Ahmedabad, Gujarat",
+    "userImageURL": "m.webp"
+  },
+  {
+    "date": "28 Jul 2026",
+    "name": "Sneha Kulkarni",
+    "shortText": "Easy to practise",
+    "longText": "The platform was straightforward to use, and I could fit short practice sessions into my schedule. It was a convenient addition to my exam preparation.",
+    "stars": 4.5,
+    "place": "Indore, Madhya Pradesh",
+    "userImageURL": "f.webp"
+  },
+  {
+    "date": "07 Aug 2026",
+    "name": "Kunal Shah",
+    "shortText": "A confidence boost",
+    "longText": "Regular practice helped me become more familiar with exam-style questions and manage my time better. I would use mock tests again for future certifications.",
+    "stars": 4.5,
+    "place": "Bengaluru, Karnataka",
+    "userImageURL": "m.webp"
+  },
+  {
+    "date": "07 Oct 2026",
+    "name": "Ananya Das",
+    "shortText": "Good revision support",
+    "longText": "I liked having a focused set of questions to work through after studying a topic. It helped me notice where I needed another round of revision.",
+    "stars": 5,
+    "place": "Delhi, India",
+    "userImageURL": "f.webp"
+  },
+  {
+    "date": "16 Jul 2026",
+    "name": "Vivek Rao",
+    "shortText": "Worthwhile practice",
+    "longText": "The mock tests gave me a practical way to review the syllabus and assess my progress. They worked well alongside my other study materials.",
+    "stars": 4.5,
+    "place": "Hyderabad, Telangana",
+    "userImageURL": "m.webp"
+  },
+  {
+    "date": "29 Jul 2026",
+    "name": "Neha Verma",
+    "shortText": "Clear and convenient",
+    "longText": "I could practise at my own pace and return to topics that needed more work. The experience was convenient and useful for exam preparation.",
+    "stars": 4.5,
+    "place": "Jaipur, Rajasthan",
+    "userImageURL": "f.webp"
+  },
+  {
+    "date": "07 Oct 2026",
+    "name": "Aditya Joshi",
+    "shortText": "Helpful for self-assessment",
+    "longText": "Attempting practice questions helped me understand which subjects I was comfortable with and which ones needed more study. It was a useful self-check.",
+    "stars": 4.5,
+    "place": "Surat, Gujarat",
+    "userImageURL": "m.webp"
+  },
+  {
+    "date": "06 Oct 2026",
+    "name": "Isha Patel",
+    "shortText": "Structured learning",
+    "longText": "The question practice added structure to my revision plan. I used it to review concepts, build familiarity with the format, and keep track of my preparation.",
+    "stars": 4.5,
+    "place": "Kochi, Kerala",
+    "userImageURL": "f.webp"
+  },
+  {
+    "date": "19 Aug 2026",
+    "name": "Rahul Menon",
+    "shortText": "Helpful practice tests",
+    "longText": "The practice tests gave me a useful way to check my understanding before the exam. The question format helped me get more comfortable with timed practice.",
+    "stars": 4.5,
+    "place": "Chennai, Tamil Nadu",
+    "userImageURL": "m.webp"
+  },
+  {
+    "date": "17 Sep 2026",
+    "name": "Pooja Sinha",
+    "shortText": "Good exam preparation",
+    "longText": "I used the mock tests to revise important topics and identify areas that needed more attention. It made my preparation feel more structured.",
+    "stars": 5,
+    "place": "Lucknow, Uttar Pradesh",
+    "userImageURL": "f.webp"
+  },
+  {
+    "date": "05 Oct 2026",
+    "name": "Siddharth Jain",
+    "shortText": "Useful explanations",
+    "longText": "The questions and explanations helped me revisit concepts I had missed while studying. I found the practice sessions helpful for revision.",
+    "stars": 4.5,
+    "place": "Nagpur, Maharashtra",
+    "userImageURL": "m.webp"
+  },
+  {
+    "date": "15 Sep 2026",
+    "name": "Meera Iyer",
+    "shortText": "Easy to practise",
+    "longText": "The platform was straightforward to use, and I could fit short practice sessions into my schedule. It was a convenient addition to my exam preparation.",
+    "stars": 5,
+    "place": "Kolkata, West Bengal",
+    "userImageURL": "f.webp"
+  },
+  {
+    "date": "16 Aug 2026",
+    "name": "Nikhil Gupta",
+    "shortText": "A confidence boost",
+    "longText": "Regular practice helped me become more familiar with exam-style questions and manage my time better. I would use mock tests again for future certifications.",
+    "stars": 5,
+    "place": "Noida, Uttar Pradesh",
+    "userImageURL": "m.webp"
+  },
+  {
+    "date": "11 Aug 2026",
+    "name": "Kavya Reddy",
+    "shortText": "Good revision support",
+    "longText": "I liked having a focused set of questions to work through after studying a topic. It helped me notice where I needed another round of revision.",
+    "stars": 5,
+    "place": "Vadodara, Gujarat",
+    "userImageURL": "f.webp"
+  },
+  {
+    "date": "11 Oct 2026",
+    "name": "Arjun Malhotra",
+    "shortText": "Worthwhile practice",
+    "longText": "The mock tests gave me a practical way to review the syllabus and assess my progress. They worked well alongside my other study materials.",
+    "stars": 4.5,
+    "place": "Bhopal, Madhya Pradesh",
+    "userImageURL": "m.webp"
+  },
+  {
+    "date": "09 Oct 2026",
+    "name": "Ritika Bose",
+    "shortText": "Clear and convenient",
+    "longText": "I could practise at my own pace and return to topics that needed more work. The experience was convenient and useful for exam preparation.",
+    "stars": 5,
+    "place": "Coimbatore, Tamil Nadu",
+    "userImageURL": "f.webp"
+  },
+  {
+    "date": "03 Oct 2026",
+    "name": "Manish Yadav",
+    "shortText": "Helpful for self-assessment",
+    "longText": "Attempting practice questions helped me understand which subjects I was comfortable with and which ones needed more study. It was a useful self-check.",
+    "stars": 5,
+    "place": "Nashik, Maharashtra",
+    "userImageURL": "m.webp"
+  },
+  {
+    "date": "23 Aug 2026",
+    "name": "Simran Kaur",
+    "shortText": "Structured learning",
+    "longText": "The question practice added structure to my revision plan. I used it to review concepts, build familiarity with the format, and keep track of my preparation.",
+    "stars": 4.5,
+    "place": "Chandigarh, India",
+    "userImageURL": "f.webp"
+  },
+  {
+    "date": "21 Sep 2026",
+    "name": "Deepak Mishra",
+    "shortText": "Helpful practice tests",
+    "longText": "The practice tests gave me a useful way to check my understanding before the exam. The question format helped me get more comfortable with timed practice.",
+    "stars": 5,
+    "place": "Thane, Maharashtra",
+    "userImageURL": "m.webp"
+  },
+  {
+    "date": "01 Oct 2026",
+    "name": "Tanvi Desai",
+    "shortText": "Good exam preparation",
+    "longText": "I used the mock tests to revise important topics and identify areas that needed more attention. It made my preparation feel more structured.",
+    "stars": 5,
+    "place": "Mysuru, Karnataka",
+    "userImageURL": "f.webp"
+  },
+  {
+    "date": "10 Oct 2026",
+    "name": "Varun Bhat",
+    "shortText": "Useful explanations",
+    "longText": "The questions and explanations helped me revisit concepts I had missed while studying. I found the practice sessions helpful for revision.",
+    "stars": 4.5,
+    "place": "Gurugram, Haryana",
+    "userImageURL": "m.webp"
+  },
+  {
+    "date": "10 Oct 2026",
+    "name": "Shreya Kapoor",
+    "shortText": "Easy to practise",
+    "longText": "The platform was straightforward to use, and I could fit short practice sessions into my schedule. It was a convenient addition to my exam preparation.",
+    "stars": 4.5,
+    "place": "Visakhapatnam, Andhra Pradesh",
+    "userImageURL": "f.webp"
+  },
+  {
+    "date": "15 Sep 2026",
+    "name": "Akash Chawla",
+    "shortText": "A confidence boost",
+    "longText": "Regular practice helped me become more familiar with exam-style questions and manage my time better. I would use mock tests again for future certifications.",
+    "stars": 4.5,
+    "place": "Ranchi, Jharkhand",
+    "userImageURL": "m.webp"
+  }
+]

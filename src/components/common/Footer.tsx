@@ -81,7 +81,12 @@ export default function Footer() {
                     aria-label={label}
                     className="p-2 flex h-12 w-12 items-center justify-center rounded-full bg-white/10 text-[#c1cce1] transition-colors hover:bg-white/20 hover:text-white"
                   >
-                    <Icon aria-hidden="true" size={17} strokeWidth={1.8} />
+                    <Icon
+                      aria-hidden="true"
+                      width={17}
+                      height={17}
+                      className="shrink-0"
+                    />
                   </a>
                 ))}
               </div>
